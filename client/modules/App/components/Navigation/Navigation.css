@@ -1,0 +1,19 @@
+.navigation {
+	display: inline-block;
+	float: left;
+	padding: 1% 0 1% 14%;
+}
+
+.navigation a {
+	margin: 10px;
+	padding: 7px;
+	font-weight: bold;
+	cursor: pointer;
+	color: #fff;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+.navigation a:hover {
+	border-bottom: 1px solid #fff;
+}
