@@ -21,14 +21,14 @@ To run project on your local machine for development and testing purposes you ne
 #### Install & usage (bash)
 1. Clone repository 
 ```
-Git clone git@github.com:freefrogs/EX_MERN.git
+Git clone git@github.com:freefrogs/EX_MERN_Blog.git
 ```
 2. Install required project dependencies
 ```
-cd EX_MERN
+cd EX_MERN_Blog
 npm install
 ```
-3. Run your local MongoDB
+3. Run your local MongoDB (if you are working on Windows I suggest using Windows command line)
 ```
 mongod
 ```
